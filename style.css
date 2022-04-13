@@ -1,0 +1,17 @@
+body {
+  background-color: Red;
+  color: White;
+  font-family: calibri;
+}
+
+#img-caption {
+  width: 400px;
+}
+
+#image {
+  max-width: 100%;
+  transform: translateX(-50%);
+  margin: 0 50%;
+  height: auto;
+  display: block;
+}
